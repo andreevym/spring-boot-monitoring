@@ -26,6 +26,8 @@ https://github.com/andreevym/spring-boot-monitoring/
 при обращение к REST у нас идет запись duration в InfluxDB
 
 3) Скрипт нагрузки для JMeter который нужно открыть.
+https://github.com/andreevym/jmeter
+
 как установить JMeter? для этого нам нужно зайти на сайт 
 
 http://jmeter.apache.org/download_jmeter.cgi
