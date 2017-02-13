@@ -4,7 +4,8 @@
 1) Docker InfluxDB + Grafana
 2) Spring Boot
 3) Скрипт нагрузки для JMeter
-и в результате мы получим систему мониторинга нашего Spring Boot приложения, которую сможем нагрузить с помощью JMeter
+
+Результат: систему мониторинга нашего Spring Boot приложения, которую сможем нагрузить с помощью готового JMeter скрипта
 ![](grafana.png)
 
 1) Docker InfluxDB + Grafana
