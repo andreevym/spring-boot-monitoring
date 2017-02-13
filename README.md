@@ -1,6 +1,11 @@
 # spring-boot-monitoring
 
-Сейчас для нагрузки сайта и моинторинга у меня 3 проекта.
+Сейчас для нагрузки сайта и мониторинга у меня 3 проекта.
+1) Docker InfluxDB + Grafana
+2) Spring Boot
+3) Скрипт нагрузки для JMeter
+и в результате мы получим систему мониторинга нашего Spring Boot приложения, которую сможем нагрузить с помощью JMeter
+![](grafana.png)
 
 1) Docker InfluxDB + Grafana
 https://github.com/andreevym/monitoring
