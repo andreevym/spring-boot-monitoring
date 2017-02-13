@@ -6,10 +6,13 @@
 https://github.com/andreevym/monitoring
 
 docker InfluxDB - база данных в которой мы будет хранить метрики
+http:/localhost:8086
+
 docker Grafana - средство для постоения графиков на основе DataSource (InfluxDB)
 в real time собирает метрики и отображет их на графике
+http:/localhost:3000
 
-скачали проект запустили init.sh у вас развернулась бд http://localhost:9000 и графана http://localhost:3000
+скачали проект запустили init.sh у вас развернулась бд http://localhost:8086 и графана http://localhost:3000
 
 2) Spring Boot - стартуем на 9000 порту сервер и выставляем REST контроллер http://localhost:9000/hello-world
 https://github.com/andreevym/spring-boot-monitoring/
