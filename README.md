@@ -1,5 +1,7 @@
 # spring-boot-monitoring
 
+![](architecture.png)
+
 Сейчас для нагрузки сайта и мониторинга у меня 3 проекта.
 1) Docker InfluxDB + Grafana
 2) Spring Boot
